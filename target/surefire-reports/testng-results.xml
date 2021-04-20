@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="57664" started-at="2021-04-20T17:22:48 IST" finished-at="2021-04-20T17:23:46 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="57664" started-at="2021-04-20T17:22:48 IST" finished-at="2021-04-20T17:23:46 IST">
+      <class name="com.orange.test.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.orange.test.LoginPageTest@1f554b06]" name="setUp" is-config="true" duration-ms="9254" started-at="2021-04-20T17:22:48 IST" finished-at="2021-04-20T17:22:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logoTest()[pri:1, instance:com.orange.test.LoginPageTest@1f554b06]" name="logoTest" duration-ms="54" started-at="2021-04-20T17:22:57 IST" finished-at="2021-04-20T17:22:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orange.test.LoginPageTest@1f554b06]" name="tearDown" is-config="true" duration-ms="683" started-at="2021-04-20T17:22:57 IST" finished-at="2021-04-20T17:22:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.orange.test.LoginPageTest@1f554b06]" name="setUp" is-config="true" duration-ms="9867" started-at="2021-04-20T17:22:58 IST" finished-at="2021-04-20T17:23:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="pageTitleTest()[pri:2, instance:com.orange.test.LoginPageTest@1f554b06]" name="pageTitleTest" duration-ms="8" started-at="2021-04-20T17:23:08 IST" finished-at="2021-04-20T17:23:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orange.test.LoginPageTest@1f554b06]" name="tearDown" is-config="true" duration-ms="679" started-at="2021-04-20T17:23:08 IST" finished-at="2021-04-20T17:23:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.orange.test.LoginPageTest@1f554b06]" name="setUp" is-config="true" duration-ms="9219" started-at="2021-04-20T17:23:08 IST" finished-at="2021-04-20T17:23:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="forgotPWDTest()[pri:3, instance:com.orange.test.LoginPageTest@1f554b06]" name="forgotPWDTest" duration-ms="1212" started-at="2021-04-20T17:23:18 IST" finished-at="2021-04-20T17:23:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPWDTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orange.test.LoginPageTest@1f554b06]" name="tearDown" is-config="true" duration-ms="677" started-at="2021-04-20T17:23:19 IST" finished-at="2021-04-20T17:23:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.orange.test.LoginPageTest@1f554b06]" name="setUp" is-config="true" duration-ms="8760" started-at="2021-04-20T17:23:20 IST" finished-at="2021-04-20T17:23:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="orgHRMTest()[pri:4, instance:com.orange.test.LoginPageTest@1f554b06]" name="orgHRMTest" duration-ms="84" started-at="2021-04-20T17:23:28 IST" finished-at="2021-04-20T17:23:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orgHRMTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orange.test.LoginPageTest@1f554b06]" name="tearDown" is-config="true" duration-ms="1014" started-at="2021-04-20T17:23:28 IST" finished-at="2021-04-20T17:23:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.orange.test.LoginPageTest@1f554b06]" name="setUp" is-config="true" duration-ms="8324" started-at="2021-04-20T17:23:29 IST" finished-at="2021-04-20T17:23:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:5, instance:com.orange.test.LoginPageTest@1f554b06]" name="loginTest" duration-ms="7106" started-at="2021-04-20T17:23:38 IST" finished-at="2021-04-20T17:23:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orange.test.LoginPageTest@1f554b06]" name="tearDown" is-config="true" duration-ms="677" started-at="2021-04-20T17:23:45 IST" finished-at="2021-04-20T17:23:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orange.test.LoginPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
